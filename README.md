@@ -1,2 +1,2 @@
-# sample-with-embedded-mltbx
+# sample-with-embedded-tbx
 An example repo for testing integrations
